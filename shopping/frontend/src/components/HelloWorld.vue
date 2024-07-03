@@ -1,3 +1,4 @@
+<!-- 필요없는 컴포넌트 -->
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
